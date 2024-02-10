@@ -9,5 +9,7 @@ class calci
 		 int e = a/b;
 		 int f = a%b;
 		 System.out.println("The a and b sum is:"+c);
+		System.out.println("The a and b sub is :"+d);
+		System.out.println("The a and b mul is :"+d);
 	}
 }
